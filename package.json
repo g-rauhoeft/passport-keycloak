@@ -1,0 +1,14 @@
+{
+  "name": "passport-keycloak",
+  "version": "0.0.7",
+  "description": "A strategy to be used with passport to connect to keycloak using oauth2",
+  "main": "strategy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Greg Rauhoeft",
+  "license": "MIT",
+  "dependencies": {
+    "passport-oauth2": "^1.4.0"
+  }
+}
